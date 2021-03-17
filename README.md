@@ -1,4 +1,4 @@
-# antiscam
+# Anti Scam Domain List
 Scam and fraud domain list
 
 To search a domain reputation and reporting to scam lists, you can use these online services:
